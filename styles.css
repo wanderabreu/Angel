@@ -1,0 +1,18 @@
+ul{
+ color:black;   
+}
+strong{
+   color:green; 
+}
+img{
+    height:400px;
+    width: 400px;
+    border:dotted red 5px;
+}
+html{
+   font-family: 'Monoton', cursive;
+    background-color:pink;
+}
+h1{
+ color:green;   
+}
